@@ -2,13 +2,8 @@
 
 My name is Andres, I'm from Colombia and I'm python developer.
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-
-
+[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rojas-Andres/?cardType=level&theme=github-dark&Background=000000)](https://git.io/awesome-stats-card)
 #### Personal
 
 ⭐ I have a [Youtube channel](https://www.youtube.com/channel/UCj5WYkcZwQSoQlOHuL_AaGQ) (in Spanish)
