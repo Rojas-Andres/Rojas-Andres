@@ -5,7 +5,7 @@ I am a DevOps specialist with extensive experience in developing Python applicat
 
 [![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rojas-Andres/?cardType=level&theme=github-dark&Background=000000)](https://git.io/awesome-stats-card)
 #### Personal
-[![Certificación AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c3187c65-14a3-4d9d-bf13-2a5f323c807c)
+[![Certificación AWS Cloud Practitioner](https://images.credly.com/size/240x240/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c3187c65-14a3-4d9d-bf13-2a5f323c807c)
 [![Certificación AWS Solutions Architect](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/22ce7403-5f18-4d01-b277-fc78c1dc2499)
 
 
