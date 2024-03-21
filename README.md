@@ -16,13 +16,13 @@ I am a DevOps specialist with extensive experience in developing Python applicat
 #### Top Repositories
 
 <a href="https://github.com/Rojas-Andres/challenge-serverless">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rojas-Andres&repo=Flask-rest-api&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rojas-Andres&repo=challenge-serverless&theme=buefy" />
 </a>
 
 <a href="https://github.com/Rojas-Andres/challenge_conversor_audio_whisper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rojas-Andres&repo=proyecto-web-django&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rojas-Andres&repo=challenge_conversor_audio_whisper&theme=buefy" />
 </a>
 
 <a href="https://github.com/Rojas-Andres/aws-lambda-python-cloudformation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rojas-Andres&repo=GEORREFERENCIACION-CARTOPY&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rojas-Andres&repo=aws-lambda-python-cloudformation&theme=buefy" />
 </a>
