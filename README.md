@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Andres, I'm from Colombia and I'm python developer.
+I am a DevOps specialist with extensive experience in developing Python applications and managing cloud infrastructures, I have worked with frameworks such as Flask, FastAPI, and Django, and in the implementation of AWS environments, VPC management and CloudFormation. My focus on CI/CD has improved development workflows and automated deployments, always seeking innovative solutions that deliver quality development and efficiency in the cloud.
 
 
 [![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rojas-Andres/?cardType=level&theme=github-dark&Background=000000)](https://git.io/awesome-stats-card)
